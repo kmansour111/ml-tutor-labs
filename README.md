@@ -20,13 +20,13 @@ Buttons in the app deep-link via `colab.research.google.com/github/kmansour111/m
 | 6 | Tuning, fairness & explainability | Equitable treatment recommendations | Core ML | CO5, CO6 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-06.ipynb) |
 | 7 | Ensembles & friends | Antibiotic resistance | Core ML | CO2, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-07.ipynb) |
 | 8 | Unsupervised learning + Checkpoint 1 | Patient phenotyping; compound similarity | Core ML | CO2, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-08.ipynb) |
-| 9 | DL starts: neural network fundamentals | ADR signal detection | DL & GenAI | CO2, CO5 | _authoring_ |
-| 10 | Deep learning in practice (training & CNNs) | Pill-image classification | DL & GenAI | CO5 | _authoring_ |
-| 11 | NLP, embeddings & transformers | Clinical-notes mining | DL & GenAI | CO2, CO5 | _authoring_ |
-| 12 | LLMs & GenAI, critically | Verify AI output; protect data/IP | DL & GenAI | CO3, CO6 | _authoring_ |
-| 13 | RAG, fine-tuning & agentic AI | Grounded pharmacy assistant | DL & GenAI | CO4, CO5 | _authoring_ |
-| 14 | MLOps & deployment | Medication dashboard, shipped | DL & GenAI | CO4, CO5 | _authoring_ |
-| 15 | Open-source LLMs & AI coding tools | HF clinical-text model; verified AI-assisted script | DL & GenAI | CO3, CO5, CO6 | _authoring_ |
-| 16 | Course review & synthesis + Checkpoint 2 | End-to-end recap on a fresh pharmacy dataset | Review | CO2, CO3, CO4, CO5, CO6 | _authoring_ |
+| 9 | DL starts: neural network fundamentals | ADR signal detection | DL & GenAI | CO2, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-09.ipynb) |
+| 10 | Deep learning in practice (training & CNNs) | Pill-image classification | DL & GenAI | CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-10.ipynb) |
+| 11 | NLP, embeddings & transformers | Clinical-notes mining | DL & GenAI | CO2, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-11.ipynb) |
+| 12 | LLMs & GenAI, critically | Verify AI output; protect data/IP | DL & GenAI | CO3, CO6 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-12.ipynb) |
+| 13 | RAG, fine-tuning & agentic AI | Grounded pharmacy assistant | DL & GenAI | CO4, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-13.ipynb) |
+| 14 | MLOps & deployment | Medication dashboard, shipped | DL & GenAI | CO4, CO5 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-14.ipynb) |
+| 15 | Open-source LLMs & AI coding tools | HF clinical-text model; verified AI-assisted script | DL & GenAI | CO3, CO5, CO6 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-15.ipynb) |
+| 16 | Course review & synthesis + Checkpoint 2 | End-to-end recap on a fresh pharmacy dataset | Review | CO2, CO3, CO4, CO5, CO6 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-16.ipynb) |
 
 © 2026 Dr. Khalid Mansour. Course material — do not redistribute.
