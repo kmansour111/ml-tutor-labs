@@ -11,6 +11,7 @@ Buttons in the app deep-link via `colab.research.google.com/github/kmansour111/m
 
 | Wk | Topic | Pharmacy application | Track | COs | Lab |
 |----|-------|----------------------|-------|-----|-----|
+| 0 | Your first 30 minutes of Python (orientation, hand-authored) | — | On-ramp | CO1 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-00.ipynb) |
 | 1 | Python basics | Flag out-of-range labs | Bootcamp | CO1 | [open](https://colab.research.google.com/github/kmansour111/ml-tutor-labs/blob/main/notebooks/week-01.ipynb) |
 | 2 | Functions, pandas & numpy | EHR CSVs; profile labs | Bootcamp | CO1, CO4 | _authoring_ |
 | 3 | Data wrangling & plots (UCI project) | Dispensing patterns | Bootcamp | CO1, CO4 | _authoring_ |
