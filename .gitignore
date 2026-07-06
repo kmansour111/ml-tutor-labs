@@ -1,3 +1,27 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# Keep proprietary course-control and publishing artifacts out of the public labs repo.
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.key
+*.pages
+*.zip
+*.tar.gz
+credentials*.txt
+summary*.txt
+LLM_Handoff*.txt
+GOAL.md
+AGENTS.md
+AUTOPILOT.md
+STATE.md
+ML_Tutor*
+PHSC-TXCL-PHOR*
+Student_PreCourse_Setup_Guide*
+install_cloudflare_tunnel_run_students_remote_access*
+install_on_new_machine*
+start-localhost-port*
