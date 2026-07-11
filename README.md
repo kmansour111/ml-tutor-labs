@@ -2,13 +2,6 @@
 Companion repo for the **ML Tutor** platform (PHSC-TXCL-PHOR 7304 — Intro to ML for
 Health & Pharmacy Using Python). Structure mirrors the app:
 
-Week 0 is the on-ramp: it opens with a concise Colab quick-start first, then a concise
-Pyodide quick-start, before the first intro-to-Python material appears.
-
-Some of the lab-style exercises are rewritten from the Fall 2025 source pool, but only
-after they are remapped into the current scaffolded workflow. Old notebook order and
-terminal-style execution are not preserved.
-
 - `notebooks/week-NN.ipynb` — generated from `ml-tutor/src/data/lectures/week-NN.ts`
   (single source of truth; regenerate with `node scripts/generate-notebooks.mjs`)
 - `data/week-NN/` — lab datasets (synthetic, no PHI)
